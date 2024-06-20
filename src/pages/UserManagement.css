@@ -1,0 +1,67 @@
+/* src/pages/UserManagement.css */
+
+.user-management {
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .create-user-button {
+    display: flex;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .create-user-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .create-user-icon {
+    margin-right: 8px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .filters input,
+  .filters select {
+    margin-right: 10px;
+  }
+  
+  .actions {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th,
+  table td {
+    border-bottom:1px solid #E2E6F4;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  table th {
+    background-color: #E2E6F4;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  

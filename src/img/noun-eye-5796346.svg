@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.964" height="19.682" viewBox="0 0 24.964 19.682">
+  <defs>
+    <filter id="Line_3" x="3.141" y="0" width="18.682" height="19.682" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="noun-eye-5796346" transform="translate(0 0.707)">
+    <g id="Group_17" data-name="Group 17" transform="translate(0 0.494)">
+      <g id="Group_16" data-name="Group 16">
+        <path id="Path_7" data-name="Path 7" d="M457.724,353.991v0a1.627,1.627,0,0,0,0-1.7v0s-4.5-7.29-12.242-7.29-12.242,7.29-12.242,7.29v0a1.627,1.627,0,0,0,0,1.7v0s4.5,7.29,12.242,7.29S457.724,353.991,457.724,353.991Zm-.925-.568c-.061.1-4.207,6.772-11.317,6.772s-11.256-6.673-11.317-6.772a.543.543,0,0,1,0-.565c.061-.1,4.207-6.772,11.317-6.772s11.256,6.673,11.317,6.772a.543.543,0,0,1,0,.565Z" transform="translate(-433 -345)" fill="#575757" fill-rule="evenodd"/>
+        <g id="Group_15" data-name="Group 15" transform="translate(8.696 4.354)">
+          <path id="Path_8" data-name="Path 8" d="M602.784,471a3.785,3.785,0,1,0,3.785,3.785A3.787,3.787,0,0,0,602.784,471Z" transform="translate(-598.999 -470.999)" fill="#575757" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(-1185.827 -457.045)">
+      <g id="Group_18-2" data-name="Group 18" transform="translate(-506.173 -6.045)">
+        <g id="noun-eye-5796346-2" data-name="noun-eye-5796346" transform="translate(1692 463.584)">
+          <g id="Group_17-2" data-name="Group 17" transform="translate(0 0)">
+            <g id="Group_16-2" data-name="Group 16">
+              <path id="Path_7-2" data-name="Path 7" d="M457.724,353.991v0a1.627,1.627,0,0,0,0-1.7v0s-4.5-7.29-12.242-7.29-12.242,7.29-12.242,7.29v0a1.627,1.627,0,0,0,0,1.7v0s4.5,7.29,12.242,7.29S457.724,353.991,457.724,353.991Zm-.925-.568c-.061.1-4.207,6.772-11.317,6.772s-11.256-6.673-11.317-6.772a.543.543,0,0,1,0-.565c.061-.1,4.207-6.772,11.317-6.772s11.256,6.673,11.317,6.772a.543.543,0,0,1,0,.565Z" transform="translate(-433 -345)" fill="#575757" fill-rule="evenodd"/>
+              <g id="Group_15-2" data-name="Group 15" transform="translate(8.696 4.354)">
+                <path id="Path_8-2" data-name="Path 8" d="M602.784,471a3.785,3.785,0,1,0,3.785,3.785A3.787,3.787,0,0,0,602.784,471Z" transform="translate(-598.999 -470.999)" fill="#575757" fill-rule="evenodd"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1185.83, 456.34)" filter="url(#Line_3)">
+        <line id="Line_3-2" data-name="Line 3" x2="24.421" transform="translate(21.12 0.71) rotate(135)" fill="none" stroke="#575757" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
